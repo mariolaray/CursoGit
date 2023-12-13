@@ -11,4 +11,8 @@ package proyectogit;
 public class Clase3 {
     Clase3(){
     }
+    
+    public static void main(String[] args) {
+        System.out.println("Esta es la clase 3!!");
+    }
 }
