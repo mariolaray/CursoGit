@@ -10,5 +10,10 @@ package proyectogit;
  */
 public class Clase2 {
     Clase2(){
+        
+    }
+
+    Clase2(int hola){
+        
     }
 }
